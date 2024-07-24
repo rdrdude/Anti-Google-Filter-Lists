@@ -2,6 +2,8 @@
 ! Description: A blocklist designed to restrict access to a wide range of Google services and products across various regions.
 ! Expires: 1 day
 ! Maintainer: rdrdude
+! Version: 1.0
+! Syntax: uBlock Origin
 
 ! Block Google in general
 ||google.com^
