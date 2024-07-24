@@ -196,6 +196,7 @@
 ! Block Google Analytics
 ||google-analytics.com^
 ||analytics.google.com^
+||www.google-analytics.com^
 
 ! Block Google tracking and other services
 ||adservices.google.com^
@@ -217,3 +218,121 @@
 ! Block other Google-related domains
 ||gstatic.com^
 ||www.gstatic.com^
+
+! YouTube
+||youtube.com^
+||m.youtube.com^
+||youtu.be^
+
+! Google Drive
+||drive.google.com^
+||docs.google.com^
+||sheets.google.com^
+||slides.google.com^
+||forms.google.com^
+
+! Google Maps
+||maps.google.com^
+||maps.gstatic.com^
+
+! Google Play
+||play.google.com^
+
+! Google Photos
+||photos.google.com^
+
+! Google News
+||news.google.com^
+
+! Google Cloud Services
+||cloud.google.com^
+||console.cloud.google.com^
+
+! Google APIs and Developer Services
+||developers.google.com^
+||firebase.google.com^
+||storage.googleapis.com^
+
+! Google Ads and Marketing
+||doubleclick.net^
+||googletagmanager.com^
+||googletagservices.com^
+
+! Google App Engine
+||appengine.google.com^
+
+! Google Firebase Services
+||firebaseapp.com^
+||firebasedatabase.app^
+
+! Google Domains
+||domains.google^
+
+! Google Shopping
+||shopping.google.com^
+
+! Google Alerts
+||alerts.google.com^
+
+! Google Flights
+||google.com/flights^
+
+! Google Finance
+||google.com/finance^
+
+! Google Translate
+||translate.google.com^
+
+! Google Books
+||books.google.com^
+
+! Google Scholar
+||scholar.google.com^
+
+! Google Earth
+||earth.google.com^
+
+! Google Meet
+||meet.google.com^
+
+! Google Chat
+||chat.google.com^
+
+! Google Hangouts
+||hangouts.google.com^
+
+! Google Keep
+||keep.google.com^
+
+! Google Classroom
+||classroom.google.com^
+
+! Google Surveys
+||surveys.google.com^
+
+! Google Podcasts
+||podcasts.google.com^
+
+! Google Assistant
+||assistant.google.com^
+
+! Google My Business
+||business.google.com^
+
+! Google Travel
+||google.com/travel^
+
+! Google Trends
+||trends.google.com^
+
+! Google Patents
+||patents.google.com^
+
+! Google Images
+||images.google.com^
+
+! Google Research
+||research.google.com^
+
+! Google Developer Console
+||console.developers.google.com^
