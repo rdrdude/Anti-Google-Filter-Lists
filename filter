@@ -1,3 +1,8 @@
+! Title: Anti Google Services Blocklist
+! Description: A blocklist designed to restrict access to a wide range of Google services and products across various regions.
+! Expires: 1 day
+! Maintainer: rdrdude
+
 ! Block Google in general
 ||google.com^
 ||google.ac^
